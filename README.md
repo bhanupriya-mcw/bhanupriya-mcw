@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi there!👋 I'm Bhanupriya Maran </h1>
 <h3 align="center">I love exploring Machine Learning (ML) and Deep Learning (DL), constantly learning and experimenting with models. Working on projects, optimizing algorithms and pushing the limits of AI excites me every day!  🚀💻📚</h3>
 
-<h2 
+<h2>
 - 🤝 How to connect with me: [LinkedIn](https://www.linkedin.com/in/bhanupriya-maran/)
 </h2>
